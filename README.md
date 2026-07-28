@@ -10,13 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=Vasu3759&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" alt="Profile views" />
 </div>
 
-<div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vasu3759&theme=radical&no-frame=true&row=1&column=6&margin-w=15&v=2)
-
-</div>
-
-<br>
 
 ```shell
 > SYSTEM_OVERRIDE: INITIATED
@@ -51,14 +45,14 @@ I am a Full-Stack Engineer operating at the intersection of high-performance arc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasu3759&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu3759&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&v=2)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Vasu3759&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&v=3)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vasu3759&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&v=3)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vasu3759&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&v=2)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vasu3759&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&v=3)
 
 </div>
 
