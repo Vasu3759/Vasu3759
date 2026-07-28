@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/Vasu3759/count.svg" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Vasu3759&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
@@ -48,12 +48,12 @@ I am a Full-Stack Engineer operating at the intersection of high-performance arc
 ### ▚▚▚ SYSTEM DIAGNOSTICS [GITHUB STATS] ▚▚▚
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasu3759&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu3759&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasu3759&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF00&amp;icon_color=00FF00&amp;text_color=FFFFFF" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu3759&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF00&amp;text_color=FFFFFF" height="195px"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu3759&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF" />
+  <img src="https://streak-stats.demolab.com/?user=Vasu3759&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00FF00&amp;fire=00FF00&amp;currStreakNum=FFFFFF" />
 </div>
 
 <div align="center">
@@ -103,6 +103,3 @@ executeCybernetics();
 </div>
 
 <br>
-<div align="center">
-  <p><i>END OF LINE_</i></p>
-</div>
