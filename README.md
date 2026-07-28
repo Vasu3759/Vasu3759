@@ -11,7 +11,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vasu3759&theme=radical&no-frame=true&row=1&column=6&margin-w=15" />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vasu3759&theme=radical&no-frame=true&row=1&column=6&margin-w=15&v=2)
+
 </div>
 
 <br>
@@ -48,12 +50,16 @@ I am a Full-Stack Engineer operating at the intersection of high-performance arc
 ### ▚▚▚ SYSTEM DIAGNOSTICS [GITHUB STATS] ▚▚▚
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasu3759&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF00&amp;icon_color=00FF00&amp;text_color=FFFFFF" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu3759&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF00&amp;text_color=FFFFFF" height="195px"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasu3759&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu3759&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&v=2)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vasu3759&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00FF00&amp;fire=00FF00&amp;currStreakNum=FFFFFF" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vasu3759&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&v=2)
+
 </div>
 
 <div align="center">
