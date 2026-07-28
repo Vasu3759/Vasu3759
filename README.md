@@ -87,15 +87,11 @@ executeCybernetics();
 > *Bypass the firewall and establish direct peer-to-peer contact.*
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vasudev-bansal-9191b2295/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" />
-  </a>
-  <a href="https://leetcode.com/u/sRQnn9uccM/">
-    <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=LeetCode&logoColor=00FF00" />
-  </a>
-  <a href="mailto:vasudevbansal375@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vasudev-bansal-9191b2295/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-00FF00?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sRQnn9uccM/)
+[![Email](https://img.shields.io/badge/EMAIL-00FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vasudevbansal375@gmail.com)
+
 </div>
 
 <br>
