@@ -53,16 +53,16 @@ I am a Full-Stack Engineer operating at the intersection of high-performance arc
 
 
 <div align="center">
-  <picture>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vasu3759&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  </picture>
+  <h3>▚▚▚ GITHUB ACHIEVEMENTS ▚▚▚</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vasu3759&theme=tokyonight&no-bg=true&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+  </a>
 
   <br><br>
 
-  <!-- Cybernetic Tetris Bomb Game Animation -->
-  <h3>▚▚▚ SYSTEM OVERLOAD ▚▚▚</h3>
+  <!-- Retro Space Invaders Animation -->
   <picture>
-    <img alt="Tetris Bomb Blast Animation" src="./assets/cyber-game.svg">
+    <img alt="Retro Space Invaders" src="./assets/retro-invaders.svg">
   </picture>
 </div>
 
