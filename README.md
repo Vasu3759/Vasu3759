@@ -53,16 +53,15 @@ I am a Full-Stack Engineer operating at the intersection of high-performance arc
 
 
 <div align="center">
-  <h3>▚▚▚ GITHUB ACHIEVEMENTS ▚▚▚</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vasu3759&theme=tokyonight&no-bg=true&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu3759&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8b949e" alt="GitHub Streak Stats" />
   </a>
 
   <br><br>
 
-  <!-- Retro Space Invaders Animation -->
+  <!-- Classy Anti-Gravity Engine Animation -->
   <picture>
-    <img alt="Retro Space Invaders" src="./assets/retro-invaders.svg">
+    <img alt="Anti-Gravity Engine Animation" src="./assets/classy-engine.svg">
   </picture>
 </div>
 
